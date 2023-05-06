@@ -1,6 +1,6 @@
 # Decoder-Ring Project
 
-This is a project I completed as a student at Thinkful bootcamp. I wrote the javascript and tests for this project using mocha and chai.
+This is a project I completed as a student at Thinkful bootcamp. I wrote the javascript and some tests for this project using mocha and chai.
 
 ## Caesar Shift Function
 
