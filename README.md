@@ -1,6 +1,6 @@
 # Decoder-Ring Project
 
-This is a project I completed as a student at Thinkful bootcamp. I wrote the javascript and tests for this project.
+This is a project I completed as a student at Thinkful. I wrote the javascript and tests for this project.
 
 ## Caesar Shift Function
 
@@ -12,7 +12,7 @@ caesar("hello world", 3, true) returns an encoded message of "khoor zruog". Here
 
 ## Polybius Square Function
 
-The Polybius Square Function takes two arguments and encodes or decodes a message input with the help of two helper functions. For this function, a Polybius Code object was made with a Decoder Key that matches the corresponding key-value pairs of the Polybius Code object.
+The Polybius Square Function takes two arguments and encodes or decodes a message input with the help of two helper functions. For this function, a Polybius Code object was made with a Decoder Key object that matches the corresponding key-value pairs of the Polybius Code object.
 
 ### Example
 
